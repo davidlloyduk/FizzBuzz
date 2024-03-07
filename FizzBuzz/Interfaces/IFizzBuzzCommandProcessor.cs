@@ -1,6 +1,6 @@
 ﻿namespace FizzBuzz.Interfaces;
 
-public interface ICommandProcessor
+public interface IFizzBuzzCommandProcessor
 {
     void Process(IEnumerable<int> numbers);
 

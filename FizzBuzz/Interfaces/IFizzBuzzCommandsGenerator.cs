@@ -1,6 +1,6 @@
 ﻿namespace FizzBuzz.Interfaces;
 
-public interface ICommandsGenerator
+public interface IFizzBuzzCommandsGenerator
 {
     IEnumerable<IFizzBuzzCommand> GetCommands();
 }

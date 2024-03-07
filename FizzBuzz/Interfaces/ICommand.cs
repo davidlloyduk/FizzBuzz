@@ -4,5 +4,5 @@ public interface ICommand<in T>
 {
     bool IsHandled(T t);
 
-    string Execute(T t);
+    string Execute();
 }

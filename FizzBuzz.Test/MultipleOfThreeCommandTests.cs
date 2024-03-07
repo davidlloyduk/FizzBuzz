@@ -13,7 +13,7 @@ namespace FizzBuzz.Test
             var command = new MultipleOfThreeCommand();
 
             //act
-            var result = command.Execute(3);
+            var result = command.Execute();
 
             //assert
             result.Should().Be("Fizz");

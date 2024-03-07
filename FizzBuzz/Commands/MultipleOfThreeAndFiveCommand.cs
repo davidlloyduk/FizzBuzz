@@ -2,15 +2,15 @@
 
 namespace FizzBuzz.Commands;
 
-public class MultipleOfFiveCommand : IFizzBuzzCommand
+public class MultipleOfThreeAndFiveCommand : IFizzBuzzCommand
 {
     public string Execute()
     {
-        return "Buzz";
+        return "Fizzbuzz";
     }
 
     public bool IsHandled(int t)
     {
-        return t % 5 == 0 && !(t % 3 == 0);
+        return t % 3 == 0 && t % 5 == 0;
     }
 }
