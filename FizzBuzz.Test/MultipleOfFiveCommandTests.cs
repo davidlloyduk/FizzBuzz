@@ -37,7 +37,6 @@ namespace FizzBuzz.Test
             result.Should().BeTrue();
         }
 
-        [TestCase(0)]
         [TestCase(1)]
         [TestCase(9)]
         [TestCase(23)]

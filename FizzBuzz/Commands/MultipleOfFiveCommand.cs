@@ -6,11 +6,11 @@ public class MultipleOfFiveCommand : IFizzBuzzCommand
 {
     public string Execute(int t)
     {
-        return string.Empty;
+        return "Buzz";
     }
 
     public bool IsHandled(int t)
     {
-        return false;
+        return t % 5 == 0;
     }
 }

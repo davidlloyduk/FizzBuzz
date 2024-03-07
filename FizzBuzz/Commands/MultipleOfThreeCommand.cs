@@ -6,11 +6,11 @@ public class MultipleOfThreeCommand : IFizzBuzzCommand
 {
     public string Execute(int t)
     {
-        return string.Empty;
+        return "Fizz";
     }
 
     public bool IsHandled(int t)
     {
-        return false;
+        return t % 3 == 0;
     }
 }

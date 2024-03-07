@@ -131,3 +131,17 @@ FizzBuzz/obj/Debug/net8.0/FizzBuzz.GlobalUsings.g.cs
 FizzBuzz/obj/Debug/net8.0/FizzBuzz.pdb
 FizzBuzz/obj/Debug/net8.0/ref/FizzBuzz.dll
 FizzBuzz/obj/Debug/net8.0/refint/FizzBuzz.dll
+FizzBuzz.Test/bin/Debug/net8.0/FizzBuzz.deps.json
+FizzBuzz.Test/bin/Debug/net8.0/FizzBuzz.dll
+FizzBuzz.Test/bin/Debug/net8.0/FizzBuzz.exe
+FizzBuzz.Test/bin/Debug/net8.0/FizzBuzz.pdb
+FizzBuzz.Test/bin/Debug/net8.0/FizzBuzz.runtimeconfig.json
+FizzBuzz.Test/bin/Debug/net8.0/FluentAssertions.dll
+FizzBuzz.Test/bin/Debug/net8.0/nunit_random_seed.tmp
+FizzBuzz.Test/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+FizzBuzz.Test/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+FizzBuzz.Test/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+FizzBuzz.Test/obj/Debug/net8.0/FizzBuzz.Test.csproj.BuildWithSkipAnalyzers
+FizzBuzz.Test/obj/Debug/net8.0/FizzBuzz.Test.sourcelink.json
+FizzBuzz/obj/Debug/net8.0/FizzBuzz.csproj.BuildWithSkipAnalyzers
+FizzBuzz/obj/Debug/net8.0/FizzBuzz.sourcelink.json

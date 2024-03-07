@@ -2,11 +2,11 @@
 
 namespace FizzBuzz.Commands;
 
-internal class NumberCommand : IFizzBuzzCommand
+public class NumberCommand : IFizzBuzzCommand
 {
     public string Execute(int t)
     {
-        return string.Empty;
+        return t.ToString();
     }
 
     public bool IsHandled(int t)
